@@ -1,0 +1,61 @@
+
+===== STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM =====
+1. Add student record
+2. Display all student records
+3. Search student
+4. Calculate average and display grade
+5. Exit
+Enter your choice (1-5): 
+--- Add Student Record ---
+Enter roll number: Enter student name: Enter department: Enter semester (1-8): Enter marks for Python (0-100): Enter marks for Mathematics (0-100): Enter marks for Database (0-100): Enter attendance percentage (0-100): Student record for Asha Rao added successfully.
+
+===== STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM =====
+1. Add student record
+2. Display all student records
+3. Search student
+4. Calculate average and display grade
+5. Exit
+Enter your choice (1-5): 
+--- Student Records ---
+Roll No.    Name                  Department        Sem   Average   Grade  Attendance  
+---------------------------------------------------------------------------------------
+ST101       Asha Rao              Computer Science  2     85.00     A      90%         
+
+===== STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM =====
+1. Add student record
+2. Display all student records
+3. Search student
+4. Calculate average and display grade
+5. Exit
+Enter your choice (1-5): 
+--- Search Student ---
+Enter roll number or student name: 
+Roll Number : ST101
+Name        : Asha Rao
+Department  : Computer Science
+Semester    : 2
+Attendance  : 90%
+Subject Marks:
+  Python      : 85
+  Mathematics : 78
+  Database    : 92
+Average     : 85.00
+Grade       : A
+
+===== STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM =====
+1. Add student record
+2. Display all student records
+3. Search student
+4. Calculate average and display grade
+5. Exit
+Enter your choice (1-5): 
+--- Average and Grade ---
+Enter roll number: Asha Rao has an average of 85.00 and grade A.
+
+===== STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM =====
+1. Add student record
+2. Display all student records
+3. Search student
+4. Calculate average and display grade
+5. Exit
+Enter your choice (1-5): Thank you for using the Student Record System. Goodbye!
